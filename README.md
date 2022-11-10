@@ -1,0 +1,1 @@
+# This is scraper for Weather API
